@@ -11,12 +11,4 @@ automação de processos.
 Apaixonado por tecnologia e resolução de problemas de negócios.
 Visite meu Linkedin para mais detalhes.
 
-💬 Entre em contato:
-
----
-
-## 🚀 Algumas HardSkills
-
-
-
 ---
