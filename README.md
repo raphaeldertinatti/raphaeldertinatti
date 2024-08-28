@@ -11,7 +11,7 @@ automação de processos.
 Apaixonado por tecnologia e resolução de problemas de negócios.
 Visite meu Linkedin para mais detalhes.
 
-**Linguagens e Ferramentas:**
+**Principais Hard Skills:**
 
 
 <div align="left">
