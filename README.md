@@ -11,6 +11,9 @@ automação de processos.
 Apaixonado por tecnologia e resolução de problemas de negócios.
 Visite meu Linkedin para mais detalhes.
 
+**Linguagens e Ferramentas:**
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
