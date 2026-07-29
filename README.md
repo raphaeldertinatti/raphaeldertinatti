@@ -1,12 +1,17 @@
 ## 💜 Olá, Bem-Vindo(a) ao meu portfolio
 
-🔭 Estou atuando como Programador de Sistemas liderando uma
-equipe de tecnologia na gestão e entrega de
-projetos de implantação de sistema envolvendo
-manipulação massiva de bases de dados.
+🔭 Estou atuando como Engenheiro de Software na Trillia B3 para entregar aos clientes e parceiros ferramentas/soluções, que facilitem a gestão/execução de seus processos, agregando valor aos seus negócios. 
 
-Desenvolvendo projetos de inovação, melhorias e
-automação de processos. 
+Entendendo das necessidades dos clientes e desenho de soluções pensando na parte técnica e de negócio.
+
+- Criação de microsserviços.
+- Realizar operações com grandes volumes de dados.
+- Trabalho com dados em bancos relacionais e não relacionais.
+- Configuração de aplicação através de APIs ou MONGODB.
+- Desenvolvimento/manutenção de ETL em GO/Python, bem como integrações via API.
+- Processo de indexação – utilizando tecnologias voltadas a Big Data.
+- Integração com diferentes bases de terceiros.
+- Desenvolvimento de soluções para o auxílio dos clientes externos e internos.
 
 Apaixonado por tecnologia e resolução de problemas de negócios.
 Visite meu Linkedin para mais detalhes.
