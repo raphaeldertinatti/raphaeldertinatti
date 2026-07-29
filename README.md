@@ -1,6 +1,7 @@
 ## 💜 Olá, Bem-Vindo(a) ao meu portfolio
 
-🔭 Estou atuando como Engenheiro de Software na Trillia B3 para entregar aos clientes e parceiros ferramentas/soluções, que facilitem a gestão/execução de seus processos, agregando valor aos seus negócios. 
+🔭 Estou atuando como Engenheiro de Software na Trillia B3 para entregar aos clientes e parceiros ferramentas/soluções,
+que facilitem a gestão/execução de seus processos, agregando valor aos seus negócios. 
 
 Entendendo das necessidades dos clientes e desenho de soluções pensando na parte técnica e de negócio.
 
